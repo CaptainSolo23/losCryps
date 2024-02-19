@@ -1,9 +1,14 @@
-.footer {
-    background-color: rgb(177, 15, 15);
-    position: relative;
-    display: flex;
-}
 
-.developed-link {
-    color: white;
+
+.footer, .ftr{
+    
+    background-color: rgb(255, 1, 1);
+    position: relative;
+    bottom: auto;
+            
+    p{
+        color:white;
+        background-color: rgb(255, 1, 1);
+    }
+    
 }
