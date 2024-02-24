@@ -62,6 +62,10 @@ const Nosotros = () => {
       <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis iusto dolorum sed numquam quae, a inventore, minima minus cupiditate impedit omnis voluptatum corrupti, recusandae doloremque quod dignissimos facere fugiat vero?</p>
     </section>
 
+    <section className='header'>
+      <h2 className='greeting'>El talento nuevo: Misma esencia pero con un beat renovado</h2>
+    </section>
+
     <div className='album d-flex flex-column flex-md-row my-4 py-2 px-2>                                                                                                                                                                                      2'>
       
       <div className="col-md-3 col-12">
